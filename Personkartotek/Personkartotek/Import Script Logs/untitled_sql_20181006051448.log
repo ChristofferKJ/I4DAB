@@ -1,0 +1,12 @@
+06-10-2018 19:14:48	This log contains information about the import operation of the script 'untitled.sql' into project 'Personkartotek' on computer 'DESKTOP-3KGCBTH' by user'chris.
+06-10-2018 19:14:48	Started importing file: C:\Users\chris\Desktop\untitled.sql 
+06-10-2018 19:14:48	File name C:\Users\chris\Desktop\untitled.sql (size: 1797)
+06-10-2018 19:14:48	Parsing import script
+06-10-2018 19:14:48	Total number of batches in script: 1
+06-10-2018 19:14:48	Total number of statements in script: 14
+06-10-2018 19:14:48	The script was successfully imported into the project.
+06-10-2018 19:14:48	Analyzing schema objects...
+06-10-2018 19:14:48	Scanning project for duplicate elements
+06-10-2018 19:14:48	Finished duplicate element processing
+06-10-2018 19:14:49	A summary of the import was saved to the following location: C:\Users\chris\source\repos\Personkartotek\Personkartotek\Import Script Logs\untitled_sql_20181006051448.log
+06-10-2018 19:14:49	Click Finish to continue...

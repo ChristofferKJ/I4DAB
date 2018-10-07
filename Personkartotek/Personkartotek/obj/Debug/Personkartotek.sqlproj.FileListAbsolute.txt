@@ -1,0 +1,10 @@
+C:\Users\chris\source\repos\Personkartotek\Personkartotek\bin\Debug\Personkartotek.dacpac
+C:\Users\chris\source\repos\Personkartotek\Personkartotek\bin\Debug\Personkartotek.dll
+C:\Users\chris\source\repos\Personkartotek\Personkartotek\bin\Debug\Personkartotek.pdb
+C:\Users\chris\source\repos\Personkartotek\Personkartotek\obj\Debug\Personkartotek.sqlprojAssemblyReference.cache
+C:\Users\chris\source\repos\Personkartotek\Personkartotek\obj\Debug\Personkartotek.dll
+C:\Users\chris\source\repos\Personkartotek\Personkartotek\obj\Debug\Personkartotek.pdb
+C:\Users\chris\source\repos\Personkartotek\Personkartotek\obj\Debug\Model.xml
+C:\Users\chris\source\repos\Personkartotek\Personkartotek\obj\Debug\refactor.xml
+C:\Users\chris\source\repos\Personkartotek\Personkartotek\obj\Debug\postdeploy.sql
+C:\Users\chris\source\repos\Personkartotek\Personkartotek\obj\Debug\predeploy.sql
