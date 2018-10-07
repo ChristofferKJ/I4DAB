@@ -8,10 +8,13 @@ namespace PK_Library
 {
     public class Noter
     {
-        public virtual int NoterID { get; set; }
+        public Noter(string _Note)
+        {
+            Note = _Note; 
+        }
+
+        public virtual long NoterID { get; set; }
         public virtual string Note { get; set; }
-        public virtual int PersonID { get; set; }
-
-
+        public virtual long PersonID { get; set; }
     }
 }

@@ -14,3 +14,9 @@ C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Personkartotek\Personkartotek\
 C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Personkartotek\Personkartotek\obj\Debug\Personkartotek.sqlprojAssemblyReference.cache
 C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Personkartotek\Personkartotek\obj\Debug\Personkartotek.dll
 C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Personkartotek\Personkartotek\obj\Debug\Personkartotek.pdb
+C:\Users\chris\source\repos\I4DAB\Personkartotek\Personkartotek\bin\Debug\Personkartotek.dacpac
+C:\Users\chris\source\repos\I4DAB\Personkartotek\Personkartotek\bin\Debug\Personkartotek.dll
+C:\Users\chris\source\repos\I4DAB\Personkartotek\Personkartotek\bin\Debug\Personkartotek.pdb
+C:\Users\chris\source\repos\I4DAB\Personkartotek\Personkartotek\obj\Debug\Personkartotek.sqlprojAssemblyReference.cache
+C:\Users\chris\source\repos\I4DAB\Personkartotek\Personkartotek\obj\Debug\Personkartotek.dll
+C:\Users\chris\source\repos\I4DAB\Personkartotek\Personkartotek\obj\Debug\Personkartotek.pdb

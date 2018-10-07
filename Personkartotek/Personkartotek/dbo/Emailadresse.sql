@@ -1,7 +1,10 @@
 ﻿CREATE TABLE Emailadresse (
-  EmailID       int IDENTITY NOT NULL, 
-  PersonID int NOT NULL, 
-  Email    varchar(255) NULL, 
-  PRIMARY KEY (EmailID));
-GO
-ALTER TABLE Emailadresse ADD CONSTRAINT FKEmailadres218851 FOREIGN KEY (PersonID) REFERENCES Person (PersonID);
+  EmailID       BIGINT IDENTITY(1,1) NOT NULL,
+  PersonID		BIGINT NOT NULL, 
+  Email			NVARCHAR(MAX) NOT NULL 
+	CONSTRAINT pk_Email PRIMARY KEY CLUSTERED (EmailID),
+	CONSTRAINT fk_Email FOREIGN KEY (PersonID)
+    REFERENCES Person (PersonID)
+    ON DELETE NO ACTION
+    ON UPDATE CASCADE)
+

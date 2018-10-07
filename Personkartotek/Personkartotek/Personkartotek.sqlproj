@@ -66,9 +66,13 @@
     <Build Include="dbo\Person.sql" />
     <Build Include="dbo\Noter.sql" />
     <Build Include="dbo\Adresse.sql" />
-    <Build Include="dbo\Person_Adresse.sql" />
+    <Build Include="dbo\AA_Adresse.sql" />
+    <Build Include="dbo\By.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Script1.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="Personkartotek.refactorlog" />
   </ItemGroup>
 </Project>

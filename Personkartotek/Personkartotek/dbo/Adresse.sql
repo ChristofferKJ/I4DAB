@@ -1,10 +1,11 @@
-﻿CREATE TABLE Adresse (
-  AdresseID         int IDENTITY NOT NULL, 
-  PersonID   int NOT NULL, 
-  Vej        varchar(255) NULL, 
-  [By]       varchar(255) NULL, 
-  Husnummer  varchar(255) NULL, 
-  Postnummer varchar(255) NULL, 
-  PRIMARY KEY (AdresseID));
-GO
-ALTER TABLE Adresse ADD CONSTRAINT FRA FOREIGN KEY (PersonID) REFERENCES Person (PersonID);
+﻿
+CREATE TABLE Adresse (
+    AdresseID      BIGINT IDENTITY(1,1) NOT NULL,
+    ByID			BIGINT NOT NULL,
+    Vej  NVARCHAR(MAX) NOT NULL,
+    Husnummer   NVARCHAR(MAX) NOT NULL,
+CONSTRAINT pk_Adresse PRIMARY KEY CLUSTERED (AdresseID),
+CONSTRAINT fk_Adresse FOREIGN KEY (ByID)
+    REFERENCES Byy (ByID)
+    ON DELETE NO ACTION
+    ON UPDATE CASCADE)

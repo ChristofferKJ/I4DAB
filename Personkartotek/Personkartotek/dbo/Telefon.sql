@@ -1,10 +1,15 @@
 ﻿CREATE TABLE Telefon (
-  TeleID            int IDENTITY NOT NULL, 
-  OperatoerID    int NOT NULL, 
-  PersonID      int NOT NULL, 
-  Telefonnummer varchar(255) NULL, 
-  PRIMARY KEY (TeleID));
-GO
-ALTER TABLE Telefon ADD CONSTRAINT FKTelefon747761 FOREIGN KEY (PersonID) REFERENCES Person (PersonID);
-GO
-ALTER TABLE Telefon ADD CONSTRAINT FKTelefon302512 FOREIGN KEY (OperatoerID) REFERENCES Operatoer (OperatoerID);
+  TeleID            BIGINT IDENTITY(1,1) NOT NULL, 
+  PersonID    BIGINT NOT NULL, 
+  OperatoerID BIGINT NOT NULL, 
+  Telefonnummer  NVARCHAR(MAX) NOT NULL,
+
+CONSTRAINT pk_Telefon PRIMARY KEY CLUSTERED (TeleID),
+CONSTRAINT fk_Telefon FOREIGN KEY (PersonID)
+    REFERENCES Person (PersonID)
+    ON DELETE NO ACTION
+    ON UPDATE CASCADE,
+CONSTRAINT fk_Telefon2 FOREIGN KEY (OperatoerID)
+    REFERENCES Operatoer (OperatoerID)
+    ON DELETE CASCADE
+    ON UPDATE CASCADE)

@@ -13,14 +13,21 @@ namespace ApplicationLogic
         public void TheAPP()
         {
             DBUtil utilities = new DBUtil();
-            Person HansZimmer = new Person() { Navn = "Hans Zimmer", Type = "Kastestjerne", PersonID = 1};
-            Person LarsHjortshoj = new Person() {Navn = "Lars Hjortshoj", Type = "Stripper", PersonID = 2};
 
-            utilities.AddPerson(ref HansZimmer);
-            utilities.AddPerson(ref LarsHjortshoj);
+            Byy _by = new Byy("Vladivostock", "90099", "Russkiy");
+            utilities.GetByByByID(ref _by);
+            utilities.AddBy(ref _by);
 
-            utilities.GetPersonByID(ref HansZimmer);
-            utilities.GetPersonByID(ref LarsHjortshoj);
+            Adresse _adresse = new Adresse("Okeanskiy Prospekt", "333B", _by);
+            utilities.GetAdresseByID(ref _adresse);
+            utilities.AddAdresse(ref _adresse);
+
+
+            Person _person = new Person("Cyka Blyat","Idi","Nahui","Gopnik",_adresse);
+            utilities.GetPersonByID(ref _person);
+            utilities.AddPerson(ref _person);
+
+     
 
         }
     }

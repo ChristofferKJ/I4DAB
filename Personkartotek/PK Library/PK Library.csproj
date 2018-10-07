@@ -42,11 +42,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Adresse.cs" />
+    <Compile Include="By.cs" />
     <Compile Include="Emailadresse.cs" />
     <Compile Include="Noter.cs" />
     <Compile Include="Operatoer.cs" />
     <Compile Include="Person.cs" />
-    <Compile Include="Person_Adresse.cs" />
+    <Compile Include="AA_Adresse.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Telefon.cs" />
   </ItemGroup>

@@ -1,9 +1,13 @@
 ﻿CREATE TABLE Person (
-  PersonID   int IDENTITY NOT NULL, 
-  Navn varchar(255) NULL, 
-  Type varchar(255) NULL, 
-  AdresseID INT NULL, 
-    PRIMARY KEY (PersonID));
+  PersonID		BIGINT IDENTITY(1,1) NOT NULL, 
+  AdresseID    BIGINT NOT NULL, 
+  Fornavn		NVARCHAR(MAX) NOT NULL, 
+  Mellemnavn	NVARCHAR(MAX) NOT NULL, 
+  Efternavn		NVARCHAR(MAX) NOT NULL, 
+  Type			NVARCHAR(MAX) NOT NULL, 
 
-GO
-ALTER TABLE Person ADD CONSTRAINT FRA123 FOREIGN KEY (AdresseID) REFERENCES Adresse (AdresseID);
+	CONSTRAINT pk_Person PRIMARY KEY CLUSTERED (PersonID),
+	CONSTRAINT fk_Person FOREIGN KEY (AdresseID)
+		REFERENCES Adresse (AdresseID)
+		ON DELETE NO ACTION
+		ON UPDATE NO ACTION)

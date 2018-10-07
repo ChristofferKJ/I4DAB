@@ -1,4 +1,4 @@
 ﻿CREATE TABLE Operatoer (
-  OperatoerID   int IDENTITY NOT NULL, 
-  Navn varchar(255) NULL, 
-  PRIMARY KEY (OperatoerID));
+  OperatoerID   BIGINT IDENTITY(1,1) NOT NULL,
+  Navn			NVARCHAR(MAX) NOT NULL,
+CONSTRAINT pk_Operatoer PRIMARY KEY CLUSTERED (OperatoerID))

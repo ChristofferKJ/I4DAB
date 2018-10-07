@@ -8,8 +8,13 @@ namespace PK_Library
 {
     public class Emailadresse
     {
-        public virtual int EmailID { get; set; }
-        public virtual int PersonID { get; set; }
+        public Emailadresse(string _Email)
+        {
+            Email = _Email;
+        }
+
+        public virtual long EmailID { get; set; }
+        public virtual long PersonID { get; set; }
         public virtual string Email { get; set; }
     }
 }

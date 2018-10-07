@@ -8,9 +8,15 @@ namespace PK_Library
 {
     public class Telefon
     {
-        public virtual int TeleID { get; set; }
-        public virtual int OperatoerID { get; set; }
-        public virtual int PersonID { get; set; }
+        public Telefon(string _Telefonnummer, Operatoer _Operatoer)
+        {
+            Telefonnummer = _Telefonnummer;
+            OperatoerID = _Operatoer.OperatoerID;
+        }
+
+        public virtual long TeleID { get; set; }
+        public virtual long OperatoerID { get; set; }
+        public virtual long PersonID { get; set; }
         public virtual string Telefonnummer { get; set; }
     }
 

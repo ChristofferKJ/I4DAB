@@ -12,3 +12,17 @@ C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Personkartotek\PK APP\bin\Debu
 C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Personkartotek\PK APP\obj\Debug\PK APP.csproj.CopyComplete
 C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Personkartotek\PK APP\obj\Debug\PK APP.exe
 C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Personkartotek\PK APP\obj\Debug\PK APP.pdb
+C:\Users\chris\source\repos\I4DAB\Personkartotek\PK APP\bin\Debug\PK APP.exe.config
+C:\Users\chris\source\repos\I4DAB\Personkartotek\PK APP\bin\Debug\PK APP.exe
+C:\Users\chris\source\repos\I4DAB\Personkartotek\PK APP\bin\Debug\PK APP.pdb
+C:\Users\chris\source\repos\I4DAB\Personkartotek\PK APP\bin\Debug\Application.dll
+C:\Users\chris\source\repos\I4DAB\Personkartotek\PK APP\bin\Debug\Infrastructure.dll
+C:\Users\chris\source\repos\I4DAB\Personkartotek\PK APP\bin\Debug\PK Library.dll
+C:\Users\chris\source\repos\I4DAB\Personkartotek\PK APP\bin\Debug\Application.pdb
+C:\Users\chris\source\repos\I4DAB\Personkartotek\PK APP\bin\Debug\Infrastructure.pdb
+C:\Users\chris\source\repos\I4DAB\Personkartotek\PK APP\bin\Debug\PK Library.pdb
+C:\Users\chris\source\repos\I4DAB\Personkartotek\PK APP\obj\Debug\PK APP.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\I4DAB\Personkartotek\PK APP\obj\Debug\PK APP.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\I4DAB\Personkartotek\PK APP\obj\Debug\PK APP.csproj.CopyComplete
+C:\Users\chris\source\repos\I4DAB\Personkartotek\PK APP\obj\Debug\PK APP.exe
+C:\Users\chris\source\repos\I4DAB\Personkartotek\PK APP\obj\Debug\PK APP.pdb
