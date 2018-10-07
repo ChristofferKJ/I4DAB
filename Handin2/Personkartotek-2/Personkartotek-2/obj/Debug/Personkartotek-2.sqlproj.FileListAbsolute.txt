@@ -1,0 +1,10 @@
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Handin2\Personkartotek-2\Personkartotek-2\bin\Debug\Personkartotek-2.dacpac
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Handin2\Personkartotek-2\Personkartotek-2\bin\Debug\Personkartotek_2.dll
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Handin2\Personkartotek-2\Personkartotek-2\bin\Debug\Personkartotek_2.pdb
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Handin2\Personkartotek-2\Personkartotek-2\obj\Debug\Personkartotek-2.sqlprojAssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Handin2\Personkartotek-2\Personkartotek-2\obj\Debug\Personkartotek_2.dll
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Handin2\Personkartotek-2\Personkartotek-2\obj\Debug\Personkartotek_2.pdb
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Handin2\Personkartotek-2\Personkartotek-2\obj\Debug\Model.xml
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Handin2\Personkartotek-2\Personkartotek-2\obj\Debug\refactor.xml
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Handin2\Personkartotek-2\Personkartotek-2\obj\Debug\postdeploy.sql
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Handin2\Personkartotek-2\Personkartotek-2\obj\Debug\predeploy.sql

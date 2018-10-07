@@ -1,0 +1,6 @@
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Handin2\Handin2\Handin2\bin\Debug\Handin2.dacpac
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Handin2\Handin2\Handin2\bin\Debug\Handin2.dll
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Handin2\Handin2\Handin2\bin\Debug\Handin2.pdb
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Handin2\Handin2\Handin2\obj\Debug\Handin2.sqlprojAssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Handin2\Handin2\Handin2\obj\Debug\Handin2.dll
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Handin2\Handin2\Handin2\obj\Debug\Handin2.pdb

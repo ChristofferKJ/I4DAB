@@ -1,0 +1,13 @@
+10/6/2018 1:09:54 PM	This log contains information about the import operation of the script 'schmMaten.sql' into project 'Handin2' on computer 'DESKTOP-T4R38KB' by user'chris.
+10/6/2018 1:09:54 PM	Started importing file: C:\Users\chris\OneDrive\Desktop\4. Semester\MSSQL\schmMaten.sql 
+10/6/2018 1:09:54 PM	File name C:\Users\chris\OneDrive\Desktop\4. Semester\MSSQL\schmMaten.sql (size: 4066)
+10/6/2018 1:09:54 PM	Parsing import script
+10/6/2018 1:09:54 PM	Total number of batches in script: 15
+10/6/2018 1:09:54 PM	Total number of statements in script: 6
+10/6/2018 1:09:54 PM	The script was successfully imported into the project.
+10/6/2018 1:09:54 PM	Analyzing schema objects...
+10/6/2018 1:09:54 PM	Scanning project for duplicate elements
+10/6/2018 1:09:54 PM	Finished duplicate element processing
+10/6/2018 1:09:55 PM	In the script that you provided to the import operation, one or more statements were not fully understood. These statements were moved to the ScriptsIgnoredOnImport.sql file. Review the file contents for additional information.
+10/6/2018 1:09:55 PM	A summary of the import was saved to the following location: C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Handin2\Handin2\Handin2\Import Script Logs\schmMaten_sql_20181006110954.log
+10/6/2018 1:09:55 PM	Click Finish to continue...
