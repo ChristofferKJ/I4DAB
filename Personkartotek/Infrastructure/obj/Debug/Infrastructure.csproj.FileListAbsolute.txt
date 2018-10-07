@@ -1,0 +1,11 @@
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Personkartotek\Infrastructure\obj\Debug\Infrastructure.csprojAssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Personkartotek\Infrastructure\obj\Debug\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Personkartotek\Infrastructure\bin\Debug\Infrastructure.dll
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Personkartotek\Infrastructure\bin\Debug\Infrastructure.pdb
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Personkartotek\Infrastructure\bin\Debug\PK Library.dll
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Personkartotek\Infrastructure\bin\Debug\PK Library.pdb
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Personkartotek\Infrastructure\obj\Debug\Infrastructure.csproj.CopyComplete
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Personkartotek\Infrastructure\obj\Debug\Infrastructure.dll
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Personkartotek\Infrastructure\obj\Debug\Infrastructure.pdb
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Personkartotek\Infrastructure\bin\Debug\Personkartotek.dll
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Personkartotek\Infrastructure\bin\Debug\Personkartotek.pdb

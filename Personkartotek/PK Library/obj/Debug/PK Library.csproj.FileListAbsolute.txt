@@ -1,0 +1,6 @@
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Personkartotek\PK Library\bin\Debug\PK Library.dll
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Personkartotek\PK Library\bin\Debug\PK Library.pdb
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Personkartotek\PK Library\obj\Debug\PK Library.csprojAssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Personkartotek\PK Library\obj\Debug\PK Library.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Personkartotek\PK Library\obj\Debug\PK Library.dll
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Personkartotek\PK Library\obj\Debug\PK Library.pdb

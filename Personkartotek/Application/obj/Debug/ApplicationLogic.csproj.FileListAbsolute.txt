@@ -1,0 +1,11 @@
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Personkartotek\Application\obj\Debug\ApplicationLogic.csprojAssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Personkartotek\Application\obj\Debug\ApplicationLogic.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Personkartotek\Application\bin\Debug\Application.dll
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Personkartotek\Application\bin\Debug\Application.pdb
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Personkartotek\Application\bin\Debug\Infrastructure.dll
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Personkartotek\Application\bin\Debug\PK Library.dll
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Personkartotek\Application\bin\Debug\Infrastructure.pdb
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Personkartotek\Application\bin\Debug\PK Library.pdb
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Personkartotek\Application\obj\Debug\ApplicationLogic.csproj.CopyComplete
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Personkartotek\Application\obj\Debug\Application.dll
+C:\Users\chris\OneDrive\Desktop\4. Semester\I4DAB\Personkartotek\Application\obj\Debug\Application.pdb
